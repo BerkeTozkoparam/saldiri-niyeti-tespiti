@@ -2,6 +2,5 @@ scikit-learn
 pandas
 nltk
 speechrecognition
-pyaudio
 streamlit
 audio-recorder-streamlit
